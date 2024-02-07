@@ -1,6 +1,6 @@
 let addition = (a, b) => { 
     let total = a + b
-    console.log(total);
+    console.log(`addition of ${a} + ${b} = ${total}`);
 }
 
 module.exports = {
